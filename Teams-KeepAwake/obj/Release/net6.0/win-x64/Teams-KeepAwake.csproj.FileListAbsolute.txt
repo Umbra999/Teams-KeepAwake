@@ -13,3 +13,18 @@ C:\Users\Umbra\source\repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\w
 C:\Users\Umbra\source\repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\Teams-KeepAwake.pdb
 C:\Users\Umbra\source\repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\Teams-KeepAwake.genruntimeconfig.cache
 C:\Users\Umbra\source\repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\ref\Teams-KeepAwake.dll
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\bin\Release\net6.0\win-x64\Teams-KeepAwake.exe
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\bin\Release\net6.0\win-x64\Teams-KeepAwake.deps.json
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\bin\Release\net6.0\win-x64\Teams-KeepAwake.runtimeconfig.json
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\bin\Release\net6.0\win-x64\Teams-KeepAwake.dll
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\bin\Release\net6.0\win-x64\Teams-KeepAwake.pdb
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\Teams-KeepAwake.csproj.AssemblyReference.cache
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\Teams-KeepAwake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\Teams-KeepAwake.AssemblyInfoInputs.cache
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\Teams-KeepAwake.AssemblyInfo.cs
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\Teams-KeepAwake.csproj.CoreCompileInputs.cache
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\Teams-KeepAwake.dll
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\refint\Teams-KeepAwake.dll
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\Teams-KeepAwake.pdb
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\Teams-KeepAwake.genruntimeconfig.cache
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Release\net6.0\win-x64\ref\Teams-KeepAwake.dll

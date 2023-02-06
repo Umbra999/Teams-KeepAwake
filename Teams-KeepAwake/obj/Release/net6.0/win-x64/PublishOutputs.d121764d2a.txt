@@ -1,0 +1,2 @@
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\bin\Release\net6.0\publish\win-x64\Teams-KeepAwake.pdb
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\bin\Release\net6.0\publish\win-x64\Teams-KeepAwake.exe

@@ -1,0 +1,5 @@
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Debug\net6.0\Teams-KeepAwake.csproj.AssemblyReference.cache
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Debug\net6.0\Teams-KeepAwake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Debug\net6.0\Teams-KeepAwake.AssemblyInfoInputs.cache
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Debug\net6.0\Teams-KeepAwake.AssemblyInfo.cs
+D:\Github Repos\Teams-KeepAwake\Teams-KeepAwake\obj\Debug\net6.0\Teams-KeepAwake.csproj.CoreCompileInputs.cache
