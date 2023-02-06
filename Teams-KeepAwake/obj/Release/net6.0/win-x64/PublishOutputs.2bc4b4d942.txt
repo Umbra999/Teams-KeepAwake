@@ -1,0 +1,2 @@
+C:\Users\Umbra\source\repos\Teams-KeepAwake\Teams-KeepAwake\bin\Release\net6.0\publish\win-x64\Teams-KeepAwake.pdb
+C:\Users\Umbra\source\repos\Teams-KeepAwake\Teams-KeepAwake\bin\Release\net6.0\publish\win-x64\Teams-KeepAwake.exe

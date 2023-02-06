@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TgEVRh1rubY8X6LRgJgKTWqK3vz8WM1IXKTPxzZBaZsVNEKBTdObWO3kGUyl61WWHdmqOln5ubRlhQ25ad6slg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Umbra\\source\\repos\\Teams-KeepAwake\\Teams-KeepAwake\\Teams-KeepAwake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Umbra\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.13\\microsoft.netcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\Umbra\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\Umbra\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\Umbra\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.13\\microsoft.netcore.app.crossgen2.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
